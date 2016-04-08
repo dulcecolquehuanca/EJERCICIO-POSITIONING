@@ -1,0 +1,37 @@
+div{
+	width:100px;
+	height: 100px;
+	position:absolute;
+}
+body{
+	margin:0px;
+padding: 0px;}
+.contiene{
+	width:800px;
+	height: 800px;
+	border:solid black 1px;
+}
+.rojo{
+	background-color: #ee3e64;
+	left:0px;
+	top:0px;
+}
+
+.azul{
+	background-color: #44accf;
+	right:0px;
+	top:0px;
+}
+
+
+
+.verde{
+	background-color: #b7d84b;
+	left:0px;
+	bottom:0px;
+}
+.amarillo{
+	background-color: yellow;
+	right:0px;
+	bottom:0px;
+}
